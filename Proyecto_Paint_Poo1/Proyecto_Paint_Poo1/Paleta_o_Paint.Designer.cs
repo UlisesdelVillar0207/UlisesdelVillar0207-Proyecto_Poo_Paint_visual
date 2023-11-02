@@ -111,19 +111,16 @@
             // 
             // btnBorrador
             // 
-            this.btnBorrador.BackgroundImage = global::Proyecto_Paint_Poo1.Properties.Resources.borrador;
             this.btnBorrador.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnBorrador.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnBorrador.Location = new System.Drawing.Point(313, 11);
             this.btnBorrador.Name = "btnBorrador";
             this.btnBorrador.Size = new System.Drawing.Size(50, 50);
-            this.btnBorrador.TabIndex = 6;
             this.btnBorrador.UseVisualStyleBackColor = true;
             this.btnBorrador.Click += new System.EventHandler(this.btnBorrador_Click);
             // 
             // btnLapiz
             // 
-            this.btnLapiz.BackgroundImage = global::Proyecto_Paint_Poo1.Properties.Resources.lapiz;
             this.btnLapiz.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnLapiz.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLapiz.Location = new System.Drawing.Point(201, 11);
@@ -135,7 +132,6 @@
             // 
             // btnRellenar
             // 
-            this.btnRellenar.BackgroundImage = global::Proyecto_Paint_Poo1.Properties.Resources.pintura_en_aerosol;
             this.btnRellenar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnRellenar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnRellenar.Location = new System.Drawing.Point(257, 11);
@@ -159,7 +155,6 @@
             // 
             // btnCirculo
             // 
-            this.btnCirculo.BackgroundImage = global::Proyecto_Paint_Poo1.Properties.Resources.Circulo;
             this.btnCirculo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCirculo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCirculo.Location = new System.Drawing.Point(89, 11);
@@ -171,7 +166,6 @@
             // 
             // btnCuadrado
             // 
-            this.btnCuadrado.BackgroundImage = global::Proyecto_Paint_Poo1.Properties.Resources.Cuadrado;
             this.btnCuadrado.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCuadrado.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCuadrado.Location = new System.Drawing.Point(33, 11);
